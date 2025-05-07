@@ -46,6 +46,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Developed by:ANS NERLING EMIMA S RegisterNumber:212224040027
 */
+```
 module exp11(out,clk,rstn);
 input clk,rstn;
 output reg [2:0]out;
